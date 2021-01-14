@@ -19,6 +19,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 18,state,Alabama,HAMILTON AGED AND INFIRMED,2021-01-13,http://www.doc.alabama.gov/covid19news,46,37,12,0,32,34,,,,,0,,,,,243,223 SASSER DR,35570,HAMILTON,MARION,34.12434611,-87.99171938,1093,10001197
 19,state,Alabama,HAMILTON COMMUNITY BASED FACILITY,2021-01-13,http://www.doc.alabama.gov/covid19news,8,21,2,0,6,2,,,,,0,,,,,220,1826 BEXAR AVE E,35570,HAMILTON,MARION,34.14329559,-87.95895958,1093,10001199
 20,state,Alabama,HOLMAN CORRECTIONAL FACILITY,2021-01-13,http://www.doc.alabama.gov/covid19news,37,31,1,0,34,23,,,,,0,,,,,700,866 ROSS RD,36503,ATMORE,ESCAMBIA,31.13438612,-87.4498642,1053,10000149
+1803,immigration,Alabama,ICE ETOWAH COUNTY JAIL ALABAMA,2021-01-13,https://www.ice.gov/coronavirus,30,,0,,,,,,,,,,,,6,,,,,,34.01573709,-86.01193283,,
 22,state,Alabama,KILBY CORRECTIONAL FACILITY,2021-01-13,http://www.doc.alabama.gov/covid19news,10,37,1,0,9,37,,,,,0,,,,,1231,12201 WARES FERRY RD,36117,MONTGOMERY,MONTGOMERY,32.38835654,-86.1009811,1101,10001221
 23,state,Alabama,LIMESTONE CORRECTIONAL FACILITY,2021-01-13,http://www.doc.alabama.gov/covid19news,146,93,4,0,127,31,,,,,0,,,,,2107,28779 NICK DAVIS RD,35749,HARVEST,LIMESTONE,34.81254392,-86.80413307,1083,10000129
 24,state,Alabama,LOXLEY COMMUNITY BASED FACILITY,2021-01-13,http://www.doc.alabama.gov/covid19news,106,14,0,0,106,14,,,,,0,,,,,356,14880 COUNTY RD 64,36551,LOXLEY,BALDWIN,30.6153358,-87.77030984,1003,10000146
@@ -39,6 +40,11 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 52,state,Arizona,EYMAN STATE PRISON,2021-01-13,https://corrections.az.gov/adcrr-covid-19-dashboard?order=title_field&sort=asc,1274,,6,,823,,,,4129,,0,,,,,5693,4374 E BUTTE AVE,85132,FLORENCE,PINAL,33.03691871,-111.3264441,4021,10000615
 53,state,Arizona,FLORENCE STATE PRISON,2021-01-13,https://corrections.az.gov/adcrr-covid-19-dashboard?order=title_field&sort=asc,333,,13,,289,,,,2858,,0,,,,,3924,1305 E. BUTTE AVE,85132,FLORENCE,PINAL,33.02816949,-111.3707281,4021,10003976
 54,state,Arizona,FLORENCE WEST STATE PRISON,2021-01-13,https://corrections.az.gov/adcrr-covid-19-dashboard?order=title_field&sort=asc,2,,0,,2,,,,471,,0,,,,,742,"915 EAST DIVERSION DAM ROAD, PO BOX 1599",85132,FLORENCE,PINAL,33.037233,-111.376527,4021,10006312
+1788,immigration,Arizona,ICE CCA FLORENCE CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,104,,0,,,,,,,,,,,,13,,,,,,33.0438338,-111.371793,,
+1801,immigration,Arizona,ICE ELOY FEDERAL CONTRACT FACILITY,2021-01-13,https://www.ice.gov/coronavirus,280,,0,,,,,,,,,,,,1,,,,,,32.8176772,-111.5192701,,
+1805,immigration,Arizona,ICE FLORENCE SERVICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,96,,0,,,,,,,,,,,,5,,,,,,33.0649605,-111.3785048,,
+1825,immigration,Arizona,ICE LA PALMA CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,533,,0,,,,,,,,,,,,18,,,,,,32.8242111,-111.5441895,,
+1862,immigration,Arizona,ICE SAN LUIS REGIONAL DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,21,,0,,,,,,,,,,,,0,,,,,,32.49847,-114.778342,,
 55,state,Arizona,KINGMAN STATE PRISON,2021-01-13,https://corrections.az.gov/adcrr-covid-19-dashboard?order=title_field&sort=asc,94,,1,,59,,,,2589,,0,,,,,3360,4626 WEST ENGLISH DRIVE,86414,GOLDEN VALLEY,MOHAVE,35.02891497,-114.1796097,4015,10003957
 56,state,Arizona,LEWIS STATE PRISON,2021-01-13,https://corrections.az.gov/adcrr-covid-19-dashboard?order=title_field&sort=asc,784,,2,,756,,,,3449,,0,,,,,4623,26700 S HWY 85,85326,BUCKEYE,MARICOPA,33.2085241,-112.6514629,4013,10000605
 57,state,Arizona,MARANA STATE PRISON,2021-01-13,https://corrections.az.gov/adcrr-covid-19-dashboard?order=title_field&sort=asc,9,,0,,9,,,,331,,0,,,,,487,12610 W SILVERBELL RD,85653,MARANA,PIMA,32.41791032,-111.2412161,4019,10000626
@@ -61,6 +67,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 79,federal,Arkansas,FORREST CITY LOW FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/coronavirus/,727,,0,0,727,4,,,,,0,,,,,1821,1400 DALE BUMPERS ROAD,72335,FORREST CITY,ST FRANCIS,34.98233926,-90.80306156,5123,10003614
 80,federal,Arkansas,FORREST CITY MEDIUM FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/coronavirus/,363,,1,0,306,5,,,,,11,,,,,1821,1400 DALE BUMPERS ROAD,72335,FORREST CITY,ST FRANCIS,34.98233926,-90.80306156,5123,10003614
 81,state,Arkansas,STATEWIDE,2021-01-13,https://doc.arkansas.gov/covid-19-updates/,9186,,,,8763,,,,,,,,,,423,,,,,,,,,
+1773,immigration,California,ADELANTO ICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,270,,0,,,,,,,,,,,,4,,,,,,34.55772948,-117.4418648,,
 ,state,California,ALAMEDA COUNTY,2021-01-13,https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/,,1,,,,0,,,,,,,,,,,,,,,,,,
 82,federal,California,ATWATER UNITED STATES PENITENTIARY,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,299,,0,0,216,22,,,,,8,,,,,,,,,,,,,
 83,state,California,AVENAL STATE PRISON,2021-01-13,https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/; https://www.cdcr.ca.gov/covid19/updates/,3093,491,8,,2992,453,,,,,,,,,10,4204,1 KINGS WAY,93204,AVENAL,KINGS,35.97394934,-120.1231018,6031,10000826
@@ -91,6 +98,10 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 127,federal,California,HERLONG FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,264,,0,0,245,11,,,,,1,,,,,,,,,,,,,
 128,state,California,HIGH DESERT STATE PRISON,2021-01-13,https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/; https://www.cdcr.ca.gov/covid19/updates/,1947,513,2,,1914,480,,,,,,,,,25,3161,475-750 RICE CANYON ROAD,96127,SUSANVILLE,LASSEN,40.4034569,-120.5258579,6035,10002310
 ,state,California,HUMBOLDT COUNTY,2021-01-13,https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/,,1,,,,0,,,,,,,,,,,,,,,,,,
+1811,immigration,California,ICE GOLDEN STATE ANNEX FACILITY,2021-01-13,https://www.ice.gov/coronavirus,5,,0,,,,,,,,,,,,2,,,,,,35.6675911,-119.227114,,
+1817,immigration,California,ICE IMPERIAL REGIONAL DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,21,,0,,,,,,,,,,,,11,,,,,,32.690811,-115.397861,,
+1836,immigration,California,ICE MESA VERDE DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,59,,0,,,,,,,,,,,,0,,,,,,35.3930327,-119.0274821,,
+1846,immigration,California,ICE OTAY MESA DETENTION CENTER SAN DIEGO CDF,2021-01-13,https://www.ice.gov/coronavirus,203,,1,,,,,,,,,,,,2,,,,,,32.57652475,-116.9154777,,
 ,state,California,IMPERIAL COUNTY,2021-01-13,https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/,,9,,,,6,,,,,,,,,,,,,,,,,,
 129,state,California,IRONWOOD STATE PRISON,2021-01-13,https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/; https://www.cdcr.ca.gov/covid19/updates/,995,326,1,,778,285,,,,,,,,,209,2896,19005 WILEY'S WELL ROAD,92225,BLYTHE,RIVERSIDE,33.56098104,-114.9260354,6065,10000861
 ,state,California,KERN COUNTY,2021-01-13,https://www.cdcr.ca.gov/covid19/cdcr-cchcs-covid-19-status/,,19,,,,13,,,,,,,,,,,,,,,,,,
@@ -167,6 +178,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 189,federal,Colorado,FLORENCE HIGH UNITED STATES PENITENTIARY,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,77,,0,0,40,2,,,,,0,,,,,,,,,,,,,
 190,state,Colorado,FOUR MILE CORRECTIONAL FACILITY,2021-01-13,https://www.colorado.gov/pacific/cdoc/covid-19-faq-and-updates,401,,0,,401,,2184,,,,,,,,0,519,E US HIGHWAY 50 & EVANS BLVD,81212,CANON CITY,FREMONT,38.42976983,-105.1478509,8043,10000577
 191,state,Colorado,FREMONT CORRECTIONAL FACILITY,2021-01-13,https://www.colorado.gov/pacific/cdoc/covid-19-faq-and-updates,766,,4,,762,,15182,,,,,,,,0,1622,E US HIGHWAY 50 EVANS BLVD,81215,CANON CITY,FREMONT,,,8043,10000576
+1776,immigration,Colorado,ICE DENVER CONTRACT DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,167,,0,,,,,,,,,,,,38,,,,,,39.7164154,-104.8511196,,
 192,state,Colorado,LA VISTA CORRECTIONAL FACILITY,2021-01-13,https://www.colorado.gov/pacific/cdoc/covid-19-faq-and-updates,11,,0,,10,,2502,,,,,,,,1,694,1401 WEST 17TH STREET,81003,PUEBLO,PUEBLO,38.28484966,-104.6281974,8101,10000586
 193,state,Colorado,LIMON CORRECTIONAL FACILITY,2021-01-13,https://www.colorado.gov/pacific/cdoc/covid-19-faq-and-updates,583,,0,,574,,3401,,,,,,,,9,926,49030 STATE HIGHWAY 71 SOUTH,80826,LIMON,LINCOLN,39.21808522,-103.6916854,8073,10000567
 194,state,Colorado,RIFLE CORRECTIONAL CENTER,2021-01-13,https://www.colorado.gov/pacific/cdoc/covid-19-faq-and-updates,4,,0,,4,,965,,,,,,,,0,189,200 COUNTY ROAD 219,81650,RIFLE,GARFIELD,39.65016626,-107.7790488,8045,10000557
@@ -207,6 +219,12 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 253,federal,Florida,COLEMAN LOW FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,246,,1,1,202,12,,,,,447,,,,,2415,846 NORTHEAST 54TH TERRACE,33521,SUMTERVILLE,SUMTER,28.7692474,-82.010479,12119,10004593
 254,federal,Florida,COLEMAN MEDIUM FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/coronavirus/,327,,3,0,320,8,,,,,64,,,,,1486,846 NORTHEAST 54TH TERRACE,33521,SUMTERVILLE,SUMTER,28.7662507,-82.00753865,12119,10004594
 264,federal,Florida,DISMAS CHARITIES OF ORLANDO,2021-01-13,https://www.bop.gov/coronavirus/,2,,0,0,2,0,,,,,0,,,,,,,,,,,,,
+1777,immigration,Florida,ICE BAKER COUNTY SHERIFFS OFFICE,2021-01-13,https://www.ice.gov/coronavirus,14,,0,,,,,,,,,,,,1,,,,,,30.29596,-82.12172,,
+1781,immigration,Florida,ICE BROWARD TRANSITIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,228,,0,,,,,,,,,,,,68,,,,,,26.27477215,-80.15197145,,
+1810,immigration,Florida,ICE GLADES COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,182,,1,,,,,,,,,,,,3,,,,,,26.838714,-81.124018,,
+1824,immigration,Florida,ICE KROME NORTH SERVICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,222,,0,,,,,,,,,,,,2,,,,,,25.7625818,-80.193024,,
+1828,immigration,Florida,ICE LARKIN BEHAVIORAL HEALTH CENTER,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,26.0211773,-80.1806619,,
+1871,immigration,Florida,ICE WAKULLA COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,43,,0,,,,,,,,,,,,2,,,,,,30.19608881,-84.37692095,,
 280,federal,Florida,JACKSONVILLE RESIDENTIAL REENTRY CENTER,2021-01-13,https://www.bop.gov/coronavirus/,9,,0,0,9,0,,,,,0,,,,,,,,,,,,,
 290,federal,Florida,MARIANNA FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,192,,0,0,83,32,,,,,0,,,,,,,,,,,,,
 294,federal,Florida,MIAMI FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,241,,1,0,137,22,,,,,3,,,,,931,15801 SW 137TH AVE,33177,MIAMI,MIAMI-DADE,25.61832698,-80.41039062,12086,10000542
@@ -248,6 +266,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 354,state,Georgia,EMANUEL PROBATION DETENTION CENTER,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,0,0,0,0,0,0,,,,,,,,,,,121 CASA DRIVE,30471,TWIN CITY,EMANUEL,,,13107,10004497
 355,state,Georgia,EMANUEL WOMENS FACILITY,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,27,16,0,0,26,12,,,,,,,,,,395,714 GUMLOG ROAD,30401,SWAINSBORO,EMANUEL,32.61303825,-82.3564078,13107,10004496
 356,state,Georgia,FLOYD COUNTY CORRECTIONAL INSTITUTION,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,0,0,0,0,0,0,,,,,,,,,,,,,,,,,,
+1806,immigration,Georgia,FOLKSTON ICE PROCESSING CENTER D RAY JAMES,2021-01-13,https://www.ice.gov/coronavirus,92,,0,,,,,,,,,,,,8,,,,,,30.872094,-81.98247,,
 357,state,Georgia,GEORGIA DIAGNOSTIC AND CLASSIFICATION PRISON,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,152,53,5,0,125,45,,,,,,,,,,3371,2978 STATE HWYY 36 W PRISON BLVD,30233,JACKSON,BUTTS,33.22107373,-84.06161828,13035,10000298
 358,state,Georgia,GEORGIA DIAGNOSTIC AND CLASSIFICATION PRISON SPECIAL MANAGEMENT UNIT,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,0,12,0,0,0,10,,,,,,,,,,3371,2978 STATE HWYY 36 W PRISON BLVD,30233,JACKSON,BUTTS,33.22107373,-84.06161828,13035,10000298
 359,state,Georgia,GEORGIA STATE PRISON,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,30,34,3,0,27,27,,,,,,,,,,1454,300 1ST AVENUE SOUTH,30453,REIDSVILLE,TATTNALL,32.00512895,-82.16473427,13267,10002141
@@ -258,6 +277,9 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 364,state,Georgia,HAYS STATE PRISON,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,43,31,0,0,43,28,,,,,,,,,,,777 UNDERWOOD DRIVE,30753,TRION,CHATTOOGA,,,13055,10000284
 365,state,Georgia,HELMS FACILITY,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,0,4,0,0,0,3,,,,,,,,,,,1275 CONSTITUTION ROAD SE,30316,ATLANTA,DEKALB,,,13089,10001415
 366,state,Georgia,HUDSON TRANSITIONAL CENTER,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,2,1,0,0,2,1,,,,,,,,,,,,,,,,,,
+1818,immigration,Georgia,ICE IRWIN COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,61,,0,,,,,,,,,,,,10,,,,,,31.58099723,-83.25462794,,
+1858,immigration,Georgia,ICE ROBERT A DEYTON DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,5,,0,,,,,,,,,,,,1,,,,,,33.44060944,-84.32006836,,
+1867,immigration,Georgia,ICE STEWART DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,450,,3,,,,,,,,,,,,46,,,,,,32.036676,-84.771746,,
 367,state,Georgia,JACKSON COUNTY CORRECTIONAL INSTITUTION,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,0,0,0,0,0,0,,,,,,,,,,,265 I.W. DAVIS ROAD,30549,JEFFERSON,JACKSON,,,13157,10003907
 368,state,Georgia,JEFFERSON COUNTY CORRECTIONAL INSTITUTION,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,4,0,0,0,4,0,,,,,,,,,,,1159 CLARKS MILL ROAD,30434,LOUISVILLE,JEFFERSON,,,13163,10004482
 369,state,Georgia,JENKINS CORRECTIONAL CENTER,2021-01-13,http://www.dcor.state.ga.us/content/CVD_Dashboard,31,0,4,0,27,0,,,,,,,,,,,,,,,,,,
@@ -353,6 +375,8 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 462,state,Illinois,GENERAL OFFICE,2021-01-13,https://www2.illinois.gov/idoc/facilities/Pages/Covid19Response.aspx,0,23,,,0,14,0,,,,,,,,0,,,,,,,,,
 463,state,Illinois,GRAHAM CORRECTIONAL CENTER,2021-01-13,https://www2.illinois.gov/idoc/facilities/Pages/Covid19Response.aspx,690,170,,,321,148,4361,,,,,,,,369,1803,12078 ILLINOIS ROUTE 185,62049,HILLSBORO,MONTGOMERY,39.12648969,-89.47493262,17135,10000674
 465,state,Illinois,HILL CORRECTIONAL CENTER,2021-01-13,https://www2.illinois.gov/idoc/facilities/Pages/Covid19Response.aspx,282,75,,,223,69,4861,,,,,,,,59,1643,600 SOUTH LINWOOD ROAD,61401,GALESBURG,KNOX,40.93974548,-90.40695799,17095,10000653
+1835,immigration,Illinois,ICE MCHENRY COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,6,,0,,,,,,,,,,,,0,,,,,,42.3370015,-88.4431677,,
+1854,immigration,Illinois,ICE PULASKI COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,110,,0,,,,,,,,,,,,2,,,,,,37.272085,-89.175133,,
 466,state,Illinois,ILLINOIS RIVER CORRECTIONAL CENTER,2021-01-13,https://www2.illinois.gov/idoc/facilities/Pages/Covid19Response.aspx,214,100,,,201,96,6755,,,,,,,,13,,1300 WEST LOCUST STREET,61520,CANTON,FULTON,,,17057,10000660
 467,state,Illinois,JACKSONVILLE CORRECTIONAL CENTER,2021-01-13,https://www2.illinois.gov/idoc/facilities/Pages/Covid19Response.aspx,473,162,,,472,155,1837,,,,,,,,1,965,2268 EAST MORTON AVENUE,62650,JACKSONVILLE,MORGAN,39.72668976,-90.17561449,17137,10000671
 ,state,Illinois,JOLIET TC,2021-01-13,https://www2.illinois.gov/idoc/facilities/Pages/Covid19Response.aspx,7,69,,,7,67,327,,,,,,,,0,,,,,,,,,
@@ -386,6 +410,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 500,state,Indiana,CORRECTIONAL INDUSTRIAL FACILITY,2021-01-13,https://www.in.gov/idoc/3780.htm,135,102,3,0,128,93,421,377,,,,,33,,,1458,5124 W REFORMATORY RD,46064,PENDLETON,MADISON,39.97598494,-85.77135909,18095,10001060
 501,state,Indiana,EDINBURGH CORRECTIONAL FACILITY,2021-01-13,https://www.in.gov/idoc/3780.htm,16,23,0,0,16,23,85,83,,,,,0,,,340,"P.O. BOX 470, 23RD & SCHOOLHOUSE RD",46124,EDINBURGH,JOHNSON,39.35145302,-86.0386027,18081,10004920
 502,state,Indiana,HERITAGE TRAIL CORRECTIONAL FACILITY,2021-01-13,https://www.in.gov/idoc/3780.htm,55,33,0,0,55,31,206,67,,,,,0,,,857,501 WEST MAIN STREET,46168,PLAINFIELD,HENDRICKS,,,18063,10006309
+1792,immigration,Indiana,ICE CLAY COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,18,,0,,,,,,,,,,,,1,,,,,,39.52383377,-87.12009947,,
 503,state,Indiana,INDIANA STATE PRISON,2021-01-13,https://www.in.gov/idoc/3780.htm,72,108,2,0,72,100,325,403,,,,,0,,,2364,1 PARK ROW,46360,MICHIGAN CITY,LAPORTE,41.70343089,-86.9173169,18091,10005599
 504,state,Indiana,INDIANA WOMENS PRISON,2021-01-13,https://www.in.gov/idoc/3780.htm,124,41,0,1,94,32,630,116,,,,,88,,,696,2596 GIRLS SCHOOL ROAD,46214,INDIANAPOLIS,MARION,39.80094018,-86.29189795,18097,10001065
 505,state,Indiana,LAPORTE JUVENILE CORRECTIONAL FACILITY,2021-01-13,https://www.in.gov/idoc/3780.htm,15,12,0,0,0,12,113,46,,,,,64,,,21,"809 STATE ST, SUITE 201A",46350,LA PORTE,LAPORTE,41.61206231,-86.72292259,18091,10001053
@@ -407,6 +432,8 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 526,state,Iowa,ANAMOSA STATE PENITENTIARY,2021-01-13,https://doc.iowa.gov/COVID19,868,154,6,,867,152,,,,,,,,,,969,406 N HIGH ST,52205,ANAMOSA,JONES,42.11129071,-91.29127202,19105,10001082
 527,state,Iowa,CLARINDA CORRECTIONAL FACILITY,2021-01-13,https://doc.iowa.gov/COVID19,598,59,1,,597,59,,,,,,,,,,987,2000 NORTH 16TH STREET,51632,CLARINDA,PAGE,40.76249094,-95.03582563,19145,10001099
 528,state,Iowa,FORT DODGE CORRECTIONAL FACILITY,2021-01-13,https://doc.iowa.gov/COVID19,548,89,4,,530,87,,,,,,,,,,1252,1550 L STREET,50501,FORT DODGE,WEBSTER,42.48489252,-94.19609253,19187,10001077
+1833,immigration,Iowa,ICE LINN COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,41.97529487,-91.67008471,,
+1851,immigration,Iowa,ICE POLK COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,15,,0,,,,,,,,,,,,0,,,,,,41.653605,-93.587813,,
 529,state,Iowa,IOWA CORRECTIONAL INSTIUTION FOR WOMEN,2021-01-13,https://doc.iowa.gov/COVID19,18,35,0,,18,34,,,,,,,,,,711,420 MILL STREET SOUTHWEST,50169,MITCHELLVILLE,POLK,41.66299579,-93.3661037,19153,10001087
 530,state,Iowa,IOWA MEDICAL AND CLASSIFICATION CENTER,2021-01-13,https://doc.iowa.gov/COVID19,450,98,1,,412,79,,,,,,,,,,894,2700 CORAL RIDGE AVE,52241,CORALVILLE,JOHNSON,41.71369597,-91.61182585,19103,10001091
 531,state,Iowa,IOWA STATE PENITENTIARY,2021-01-13,https://doc.iowa.gov/COVID19,229,92,2,,229,91,,,,,,,,,,688,2111 330TH AVENUE,52627,FORT MADISON,LEE,40.65361883,-91.30326789,19111,10001100
@@ -417,6 +444,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 538,state,Kansas,EL DORADO CORRECTIONAL FACILITY,2021-01-13,https://www.kansas_statewide.gov/corrections/sites/kansas_statewide.gov.corrections/files/inline-files/MDOC%20COVID19WebDashboard11-9-2020.pdf; https://www.doc.ks.gov/kdoc-coronavirus-updates/kdoc-covid-19-status,935,219,1,1,,,,,,,,,,,,2026,1737 SOUTHEAST UNITED STATES HIGHWAY 54,67042,EL DORADO,BUTLER,37.80325673,-96.81713261,20015,10001045
 539,state,Kansas,ELLSWORTH CORRECTIONAL FACILITY,2021-01-13,https://www.kansas_statewide.gov/corrections/sites/kansas_statewide.gov.corrections/files/inline-files/MDOC%20COVID19WebDashboard11-9-2020.pdf; https://www.doc.ks.gov/kdoc-coronavirus-updates/kdoc-covid-19-status,567,86,3,0,,,,,,,,,,,,909,1607 STATE STREET,67439,ELLSWORTH,ELLSWORTH,38.74301147,-98.23215008,20053,10001040
 541,state,Kansas,HUTCHINSON CORRECTIONAL FACILITY,2021-01-13,https://www.kansas_statewide.gov/corrections/sites/kansas_statewide.gov.corrections/files/inline-files/MDOC%20COVID19WebDashboard11-9-2020.pdf; https://www.doc.ks.gov/kdoc-coronavirus-updates/kdoc-covid-19-status,1355,240,3,1,,,,,,,,,,,,1898,500 REFORMATORY STREET,67504,HUTCHINSON,RENO,38.04458476,-97.91073579,20155,10001043
+1790,immigration,Kansas,ICE CHASE COUNTY DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,82,,0,,,,,,,,,,,,0,,,,,,38.3754174,-96.5389847,,
 542,state,Kansas,KANSAS JUVENILE CORRECTIONAL COMPLEX,2021-01-13,https://www.kansas_statewide.gov/corrections/sites/kansas_statewide.gov.corrections/files/inline-files/MDOC%20COVID19WebDashboard11-9-2020.pdf; https://www.doc.ks.gov/kdoc-coronavirus-updates/kdoc-covid-19-status,19,62,0,0,,,,,,,,,,,,185,1430 NORTHWEST 25TH STREET,66618,TOPEKA,SHAWNEE,39.09678729,-95.68423367,20177,10001034
 543,state,Kansas,LANSING CORRECTIONAL FACILITY,2021-01-13,https://www.kansas_statewide.gov/corrections/sites/kansas_statewide.gov.corrections/files/inline-files/MDOC%20COVID19WebDashboard11-9-2020.pdf; https://www.doc.ks.gov/kdoc-coronavirus-updates/kdoc-covid-19-status,996,153,5,2,,,,,,,,,,,,1683,301 EAST KANSAS AVE,66043,LANSING,LEAVENWORTH,39.25190411,-94.89130455,20103,10001030
 544,state,Kansas,LARNED CORRECTIONAL FACILITY,2021-01-13,https://www.kansas_statewide.gov/corrections/sites/kansas_statewide.gov.corrections/files/inline-files/MDOC%20COVID19WebDashboard11-9-2020.pdf; https://www.doc.ks.gov/kdoc-coronavirus-updates/kdoc-covid-19-status,353,71,1,0,,,,,,,,,,,,571,1318 STATE HIGHWAY 264,67550,LARNED,PAWNEE,38.17710787,-99.15101294,20145,10001830
@@ -448,6 +476,17 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 574,state,Louisiana,DAVID WADE CORRECTIONAL CENTER,2021-01-13,https://doc.louisiana.gov/doc-covid-19-testing/,83,84,0,0,79,80,234,157,,,,,,,,1227,670 BELL HILL RD,71040,HOMER,CLAIBORNE,32.90173088,-93.01954439,22027,10000948
 ,state,Louisiana,DIXON CORRECTIONAL INSTITUTE,2021-01-13,https://doc.louisiana.gov/doc-covid-19-testing/,872,82,7,0,834,75,2971,363,,,,,,,,,,,,,,,,
 576,state,Louisiana,ELAYN HUNT CORRECTIONAL CENTER,2021-01-13,https://doc.louisiana.gov/doc-covid-19-testing/,226,102,2,0,215,90,1814,221,,,,,,,,1999,6925 HWY 74,70776,ST GABRIEL,IBERVILLE,30.26563691,-91.08621341,22047,10000972
+1774,immigration,Louisiana,ICE ALEXANDRIA STAGING FACILITY,2021-01-13,https://www.ice.gov/coronavirus,224,,0,,,,,,,,,,,,20,,,,,,31.31723,-92.5364,,
+1775,immigration,Louisiana,ICE ALLEN PARISH PUBLIC SAFETY COMPLEX,2021-01-13,https://www.ice.gov/coronavirus,12,,0,,,,,,,,,,,,0,,,,,,30.620368,-92.756652,,
+1787,immigration,Louisiana,ICE CATAHOULA CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,119,,0,,,,,,,,,,,,0,,,,,,31.860451,-91.962215,,
+1857,immigration,Louisiana,ICE CONCORDIA PARISH C C,2021-01-13,https://www.ice.gov/coronavirus,56,,0,,,,,,,,,,,,0,,,,,,31.585628,-91.557231,,
+1819,immigration,Louisiana,ICE JACKSON PARISH CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,114,,0,,,,,,,,,,,,1,,,,,,32.22209584,-92.72460938,,
+1830,immigration,Louisiana,ICE JENALASALLE DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,83,,0,,,,,,,,,,,,0,,,,,,31.70727408,-92.15105963,,
+1829,immigration,Louisiana,ICE LASALLE CORR CTR OLLA,2021-01-13,https://www.ice.gov/coronavirus,25,,0,,,,,,,,,,,,1,,,,,,31.8513106,-92.2848236,,
+1850,immigration,Louisiana,ICE PINE PRAIRIE CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,75,,0,,,,,,,,,,,,10,,,,,,30.788073,-92.413408,,
+1855,immigration,Louisiana,ICE RICHWOOD CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,127,,0,,,,,,,,,,,,0,,,,,,32.46342596,-92.08740234,,
+1864,immigration,Louisiana,ICE SOUTH LOUISIANA DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,29,,0,,,,,,,,,,,,4,,,,,,30.48657659,-92.58336608,,
+1874,immigration,Louisiana,ICE WINN CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,284,,1,,,,,,,,,,,,10,,,,,,31.84956533,-92.80151367,,
 ,state,Louisiana,LOUISIANA CORRECTIONAL INSTITUTE FOR WOMEN HUNT,2021-01-13,https://doc.louisiana.gov/doc-covid-19-testing/,169,88,2,0,149,83,529,250,,,,,,,,,,,,,,,,
 ,state,Louisiana,LOUISIANA CORRECTIONAL INSTITUTE FOR WOMEN JETSON,2021-01-13,https://doc.louisiana.gov/doc-covid-19-testing/,184,,0,,178,,573,,,,,,,,,,,,,,,,,
 580,state,Louisiana,LOUISIANA STATE PENITENTIARY,2021-01-13,https://doc.louisiana.gov/doc-covid-19-testing/,524,231,16,3,482,210,4397,592,,,,,,,,6073,17544 TUNICA TRACE,70712,ANGOLA,WEST FELICIANA,30.95976935,-91.59732559,22125,10000963
@@ -459,6 +498,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 586,state,Louisiana,RAYBURN CORRECTIONAL CENTER,2021-01-13,https://doc.louisiana.gov/doc-covid-19-testing/,121,96,1,0,91,91,1950,250,,,,,,,,1313,27268 STATE HWY 21 N,70426,ANGIE,WASHINGTON,30.92169823,-89.81584273,22117,10002416
 587,state,Louisiana,RAYMOND LABORDE CORRECTIONAL CENTER,2021-01-13,https://doc.louisiana.gov/doc-covid-19-testing/,318,76,3,2,306,66,3809,306,,,,,,,,1754,1630 PRISON RD,71327,COTTONPORT,AVOYELLES,30.97442232,-92.02522705,22009,10000960
 ,state,Maine,BOLDUC CORRECTIONAL FACILITY,2021-01-13,https://www.maine.gov/corrections/covid-19-resources,0,,,,,,153,,,,,,,,,,,,,,,,,
+1795,immigration,Maine,ICE CUMBERLAND COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,43.65086235,-70.28161965,,
 ,state,Maine,LONG CREEK YOUTH DEVELOPMENT CENTER,2021-01-13,https://www.maine.gov/corrections/covid-19-resources,1,,,,,,364,,,,,,,,,,,,,,,,,
 ,state,Maine,MAINE CORRECTIONAL CENTER MEN,2021-01-13,https://www.maine.gov/corrections/covid-19-resources,147,,,,,,2494,,,,,,,,,,,,,,,,,
 ,state,Maine,MAINE STATE PRISON,2021-01-13,https://www.maine.gov/corrections/covid-19-resources,3,,,,,,2905,,,,,,,,,,,,,,,,,
@@ -473,6 +513,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 605,state,Maryland,DORSEY RUN CORRECTIONAL FACILITY,2021-01-13,https://news.maryland.gov/dpscs/covid-19/,67,53,1,0,62,51,,0,,,,,,,,553,2020 TOULSON ROAD,20794,JESSUP,ANNE ARUNDEL,39.13906251,-76.77697334,24003,10006353
 608,state,Maryland,EASTERN CORRECTIONAL INSTITUTION,2021-01-13,https://news.maryland.gov/dpscs/covid-19/,964,192,0,0,931,174,,0,,,,,,,,2604,30420 REVELLS NECK RD,21890,WESTOVER,SOMERSET,38.15738518,-75.70440049,24039,10001569
 609,state,Maryland,EASTERN PRERELEASE UNIT,2021-01-13,https://news.maryland.gov/dpscs/covid-19/,0,2,0,0,0,2,,0,,,,,,,,,,,,,,,,
+1875,immigration,Maryland,ICE WORCESTER COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,38.170007,-75.375834,,
 611,state,Maryland,JESSUP CORRECTIONAL INSTITUTION,2021-01-13,https://news.maryland.gov/dpscs/covid-19/,435,184,2,0,392,149,,0,,,,,,,,997,"P O BOX 549, HOUSE OF CORRECTION RD",20794,JESSUP,ANNE ARUNDEL,39.1416755,-76.7703613,24003,10001560
 612,federal,Maryland,JESUP FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,413,,2,0,418,3,,,,,6,,,,,,,,,,,,,
 613,state,Maryland,MARYLAND CORRECTIONAL INSTITUTION FOR WOMEN,2021-01-13,https://news.maryland.gov/dpscs/covid-19/,419,242,3,0,392,218,,0,,,,,,,,,7943 BROCK BRIDGE RD,20794,JESSUP,ANNE ARUNDEL,39.132672,-76.775413,24003,10001559
@@ -492,6 +533,8 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 630,state,Massachusetts,BRIDGEWATER STATE HOSPITAL,2021-01-13,https://www.mass.gov/guides/doc-coronavirus-information-guide,32,3,,,,,,1,,,,,,,,217,20 ADMINISTRATION RD,2324,BRIDGEWATER,PLYMOUTH,41.94236268,-70.95533897,25023,10002097
 632,federal,Massachusetts,COOLIDGE HOUSE,2021-01-13,https://www.bop.gov/coronavirus/,6,,0,0,6,0,,,,,0,,,,,,,,,,,,,
 633,federal,Massachusetts,DEVENS FEDERAL MEDICAL CENTER,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,383,,7,0,269,40,,,,,0,,,,,999,42 PATTON ROAD,1434,DEVENS,WORCESTER,42.52538943,-71.62068113,25027,10004446
+1780,immigration,Massachusetts,ICE BRISTOL COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,41.6653329,-70.9957847,,
+1807,immigration,Massachusetts,ICE FRANKLIN COUNTY HOUSE OF CORRECTION,2021-01-13,https://www.ice.gov/coronavirus,9,,0,,,,,,,,,,,,0,,,,,,42.5964024,-72.6124595,,
 634,state,Massachusetts,LEMUEL SHATTUCK HOSPITAL,2021-01-13,https://www.mass.gov/guides/doc-coronavirus-information-guide,8,10,,,,,,128,,,,,,,,19,180 MORTON ST,2130,JAMAICA PLAIN,SUFFOLK,42.29954332,-71.10186116,25025,10001401
 635,state,Massachusetts,MASSACHUSETTS ALCOHOL AND SUBSTANCE ABUSE CENTER,2021-01-13,https://www.mass.gov/guides/doc-coronavirus-information-guide,41,5,,,,,,329,,,,,,,,262,1 BUMP POND RD,2360,PLYMOUTH,PLYMOUTH,41.84954067,-70.66055521,25023,10001404
 636,state,Massachusetts,MASSACHUSETTS CORRECTIONAL INSTITUTION CONCORD,2021-01-13,https://www.mass.gov/guides/doc-coronavirus-information-guide,296,67,,,,,,812,,,,,,,,581,99 LORING DRIVE,1701,FRAMINGHAM,MIDDLESEX,42.26751289,-71.40741919,25017,10004444
@@ -525,6 +568,9 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 667,state,Michigan,FIELD OPERATIONS ADMINISTRATION OUTSTATE,2021-01-13,https://medium.com/@MichiganDOC/mdoc-takes-steps-to-prevent-spread-of-coronavirus-covid-19-250f43144337,,51,,0,,,,,,,,,,,,,,,,,,,,
 668,state,Michigan,G ROBERT COTTON CORRECTIONAL FACILITY,2021-01-13,https://medium.com/@MichiganDOC/mdoc-takes-steps-to-prevent-spread-of-coronavirus-covid-19-250f43144337,900,99,4,0,,,,,801,,,,,,107,1796,3500 N ELM RD,49201,JACKSON,JACKSON,42.28816782,-84.38996269,26075,10000277
 669,state,Michigan,GUS HARRISON CORRECTIONAL FACILITY,2021-01-13,https://medium.com/@MichiganDOC/mdoc-takes-steps-to-prevent-spread-of-coronavirus-covid-19-250f43144337,1451,175,7,1,,,,,503,,,,,,389,2331,2727 E BEECHER ST,49221,ADRIAN,LENAWEE,41.88608464,-84.00729219,26091,10001387
+1784,immigration,Michigan,ICE CALHOUN COUNTY CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,55,,0,,,,,,,,,,,,4,,,,,,42.3166739,-85.1758915,,
+1837,immigration,Michigan,ICE MONROE COUNTY DETENTION-DORM,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,41.893515,-83.394064,,
+1860,immigration,Michigan,ICE SAINT CLAIR COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,15,,0,,,,,,,,,,,,3,,,,,,42.94196024,-82.48124175,,
 671,state,Michigan,IONIA CORRECTIONAL FACILTY,2021-01-13,https://medium.com/@MichiganDOC/mdoc-takes-steps-to-prevent-spread-of-coronavirus-covid-19-250f43144337,308,72,0,0,,,,,346,,,,,,2,681,1576 W BLUEWATER HWY,48846,IONIA,IONIA,42.98441226,-85.10165355,26067,10000272
 ,state,Michigan,IONIA REGIONAL WAREHOUSE,2021-01-13,https://medium.com/@MichiganDOC/mdoc-takes-steps-to-prevent-spread-of-coronavirus-covid-19-250f43144337,,3,,0,,,,,,,,,,,,,,,,,,,,
 ,state,Michigan,JACKSON REGIONAL OFFICE,2021-01-13,https://medium.com/@MichiganDOC/mdoc-takes-steps-to-prevent-spread-of-coronavirus-covid-19-250f43144337,,3,,0,,,,,,,,,,,,,,,,,,,,
@@ -554,6 +600,9 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 693,state,Minnesota,FARIBAULT CORRECTIONAL FACILITY,2021-01-13,https://mn.gov/doc/about/covid-19-updates/,1115,139,7,,995,99,21815,,20563,,0,,,,115,1988,1101 LINDEN LN,55021,FARIBAULT,RICE,44.28272455,-93.25602148,27131,10000262
 694,state,Minnesota,FIELD SERVICES,2021-01-13,https://mn.gov/doc/about/covid-19-updates/,,50,,,,18,,,,,,,,,,,,,,,,,,
 695,county,Minnesota,HENNEPIN COUNTY JAIL,2021-01-13,https://www.hennepinsheriff.org/jail-warrants/jail-information/COVID-19,326,,,,,,,,5291,,23,,33,,,,,,,,,,,
+1796,immigration,Minnesota,ICE DOUGLAS COUNTY,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,45.8918636,-95.3845482,,
+1808,immigration,Minnesota,ICE FREEBORN COUNTY ADULT DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,5,,0,,,,,,,,,,,,0,,,,,,43.6462546,-93.3677806,,
+1863,immigration,Minnesota,ICE SHERBURNE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,45.304329,-93.619191,,
 696,state,Minnesota,LINO LAKES CORRECTIONAL FACILITY,2021-01-13,https://mn.gov/doc/about/covid-19-updates/,351,93,0,,340,86,19288,,18858,,8,,,,11,,7525 FOURTH AVENUE,55014,LINO LAKES,,45.17682,-93.12519,27003,
 700,state,Minnesota,MOOSE LAKE CORRECTIONAL FACILITY,2021-01-13,https://mn.gov/doc/about/covid-19-updates/,157,92,1,,164,80,9233,,8730,,260,,,,23,,1000 LAKE SHORE DRIVE,96814,HONOLULU,HONOLULU,46.43944237,-92.75905837,15003,10006935
 701,state,Minnesota,OAK PARK HEIGHTS CORRECTIONAL FACILITY,2021-01-13,https://mn.gov/doc/about/covid-19-updates/,98,85,1,,34,81,4319,,4201,,1,,,,63,396,5329 OSGOOD AVENUE NORTH,55082,STILLWATER,WASHINGTON,45.02524593,-92.80149182,27163,10001331
@@ -577,6 +626,8 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 722,state,Mississippi,EAST MISSISSIPPI CORRECTIONAL FACILITY MERIDIAN,2021-01-13,https://www.mdoc.ms.gov/Pages/COVID-19-Information-and-Updates.aspx,40,,,,37,,,,,,,,,,3,1223,10641 HWY 80 W,39307,MERIDIAN,LAUDERDALE,32.33866728,-88.79875521,28075,10001816
 723,state,Mississippi,GEORGE COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.mdoc.ms.gov/Pages/COVID-19-Information-and-Updates.aspx,235,,,,235,,,,,,,,,,0,338,154 INDUSTRIAL PARK RD,39452,LUCEDALE,GEORGE,30.93037593,-88.58691025,28039,10001822
 724,state,Mississippi,HOLMES HUMPHREYS COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.mdoc.ms.gov/Pages/COVID-19-Information-and-Updates.aspx,0,,,,0,,,,,,,,,,0,279,23234 HWY 12 E,39095,LEXINGTON,HOLMES,33.10591845,-90.02500712,28051,10001810
+1772,immigration,Mississippi,ICE ADAMS COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,109,,0,,,,,,,,,,,,3,,,,,,31.56917545,-91.23046875,,
+1812,immigration,Mississippi,ICE HANCOCK COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,30.31014017,-89.32784592,,
 725,state,Mississippi,ISSAQUENA COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.mdoc.ms.gov/Pages/COVID-19-Information-and-Updates.aspx,51,,,,51,,,,,,,,,,0,276,22746 MS HWY 1,39113,MAYERSVILLE,ISSAQUENA,32.9001814,-91.04858068,28055,10004242
 726,state,Mississippi,JEFFERSON FRANKLIN COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.mdoc.ms.gov/Pages/COVID-19-Information-and-Updates.aspx,0,,,,0,,,,,,,,,,0,281,279 HWY 33,39069,FAYETTE,JEFFERSON,31.70070566,-91.07479296,28063,10001819
 727,state,Mississippi,KEMPER NESHOBA COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.mdoc.ms.gov/Pages/COVID-19-Information-and-Updates.aspx,2,,,,2,,,,,,,,,,0,353,374 STENNIS INDUSTRIAL PARK RD,39328,DEKALB,KEMPER,32.77048178,-88.68436064,28069,10002646
@@ -600,6 +651,9 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 ,state,Missouri,FORDLAND OCC,2021-01-13,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,155,42,,,,,,,,,2,,,,,,,,,
 ,state,Missouri,FULTON CTCC,2021-01-13,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,24,12,,,,,,,,,1,,,,,,,,,
 752,state,Missouri,FULTON RECEPTION AND DIAGNOSTIC CENTER,2021-01-13,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,631,85,,,,,,,,,38,,1393 HWY O,65251,FULTON,CALLAWAY,,,29027,10001617
+1832,immigration,Missouri,ICE LINCOLN COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,38.97101443,-90.96348024,,
+1838,immigration,Missouri,ICE MONTGOMERY COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,38.979586,-91.504377,,
+1841,immigration,Missouri,ICE MORGAN COUNTY ADULT DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,38.43162758,-92.83975127,,
 ,state,Missouri,JCCC JEFFERSON CITY,2021-01-13,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,346,134,,,,,,,,,2,,,,,,,,,
 754,state,Missouri,KANSAS CITY REENTRY CENTER,2021-01-13,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,10,11,,,,,,,,,5,141,651 MULBERRY ST,64101,KANSAS CITY,JACKSON,39.10671402,-94.59760549,29095,10001616
 755,state,Missouri,MARYVILLE TREATMENT CENTER,2021-01-13,https://doc.mo.gov/media-center/newsroom/covid-19/data,,,,,50,47,,,,,,,,,0,,30227 US HWY 136,64468,MARYVILLE,NODAWAY,,,29147,10001606
@@ -633,6 +687,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 795,state,Montana,START ASSESSMENT CENTER ANACONDA,2021-01-13,https://cor.mt.gov/COVID-19,68,7,,,,,,,,,,,,,,,801 HIGHWAY 48,59711,ANACONDA,,46.13478,-112.88315,30023,
 796,state,Montana,STATEWIDE,2021-01-13,https://cor.mt.gov/COVID-19,,,6,0,,,,,,,,,,,,,,,,,,,,
 798,state,Montana,WEST AND WATCH WEST WARM SPRINGS CONNECTIONS CORRECTIONS PROGRAM,2021-01-13,https://cor.mt.gov/COVID-19,2,4,,,,,,,,,,,,,,168,300 GARNET WAY,59756,WARM SPRINGS,DEER LODGE,46.18151896,-112.7906201,30023,10003629
+1848,immigration,Nebraska,ICE PHELPS COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,40.43904671,-99.37040143,,
 807,state,Nebraska,STATEWIDE,2021-01-13,https://corrections.nebraska.gov/ndcs-covid-19-data,876,,6,,845,,6114,,,,,,,,,,,,,,,,,
 ,state,Nevada,CARLIN CONSERVATION CAMP,2021-01-13,http://doc.nv.gov/About/Press_Release/covid19_updates/,1,8,0,0,,,,,,,,,,,,,,,,,,,,
 809,state,Nevada,CASA GRANDE PRISON,2021-01-13,http://doc.nv.gov/About/Press_Release/covid19_updates/,165,23,0,1,,,,,,,,,,,,331,3955 W RUSSELL RD,89118,LAS VEGAS,CLARK,36.08578404,-115.1923188,32003,10003014
@@ -640,6 +695,9 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 812,state,Nevada,FLORENCE MCCLURE WOMENS CORRECTIONAL CENTER,2021-01-13,http://doc.nv.gov/About/Press_Release/covid19_updates/,67,75,0,1,,,,,,,,,,,,991,4370 SMILEY RD,89115,LAS VEGAS,CLARK,36.25751807,-115.0769684,32003,10000261
 814,state,Nevada,HIGH DESERT STATE PRISON INDIAN VALLEY,2021-01-13,http://doc.nv.gov/About/Press_Release/covid19_updates/,473,261,7,2,,,,,,,,,,,,3669,22010 COLD CREEK RD,89070,INDIAN SPRINGS,CLARK,36.51602216,-115.5846619,32003,10003004
 ,state,Nevada,HUMBOLDT CONSERVATION CAMP,2021-01-13,http://doc.nv.gov/About/Press_Release/covid19_updates/,95,11,0,0,,,,,,,,,,,,,,,,,,,,
+1813,immigration,Nevada,ICE HENDERSON DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,28,,0,,,,,,,,,,,,2,,,,,,36.0332158,-114.9746293,,
+1843,immigration,Nevada,ICE NEVADA SOUTHERN DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,13,,0,,,,,,,,,,,,0,,,,,,36.24902657,-115.9827748,,
+1845,immigration,Nevada,ICE NYE COUNTY DETENTION CENTER SOUTHERN PAHRUMP,2021-01-13,https://www.ice.gov/coronavirus,60,,0,,,,,,,,,,,,1,,,,,,36.219543,-115.982801,,
 815,state,Nevada,INDIAN SPRINGS SOUTHERN TRAINING CENTER,2021-01-13,http://doc.nv.gov/About/Press_Release/covid19_updates/,62,9,0,0,,,,,,,,,,,,,20825 COLD CREEK RD,20825,INDIAN SPRINGS,,36.517043,-115.5561307,32003,
 ,state,Nevada,JEAN CONSERVATION CAMP,2021-01-13,http://doc.nv.gov/About/Press_Release/covid19_updates/,55,10,0,0,,,,,,,,,,,,,,,,,,,,
 816,state,Nevada,LOVELOCK CORRECTIONAL CENTER,2021-01-13,http://doc.nv.gov/About/Press_Release/covid19_updates/,291,75,12,0,,,,,,,,,,,,,,89419,LOVELOCK,PERSHING,,,32027,10002991
@@ -653,6 +711,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 824,federal,New Hampshire,BERLIN FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,18,,0,0,9,3,,,,,3,,,,,,,,,,,,,
 825,state,New Hampshire,CORRECTIONAL FACILITY FOR WOMEN,2021-01-13,https://www.covid19.nhdoc.nh.gov/covid-19-testing-information,7,10,0,,,,,,,,,,,,7,162,317 MAST RD,3045,GOFFSTOWN,HILLSBOROUGH,43.01027263,-71.53962687,33011,10004121
 826,state,New Hampshire,FIELD SERVICES,2021-01-13,https://www.covid19.nhdoc.nh.gov/covid-19-testing-information,,11,,,,,,,,,,,,,,,,,,,,,,
+1868,immigration,New Hampshire,ICE STRAFFORD COUNTY CORRECTIONS,2021-01-13,https://www.ice.gov/coronavirus,18,,0,,,,,,,,,,,,5,,,,,,43.2192302,-70.93860828,,
 828,state,New Hampshire,NORTHERN NEW HAMPSHIRE CORRECTIONAL FACILITY,2021-01-13,https://www.covid19.nhdoc.nh.gov/covid-19-testing-information,127,30,1,,,,,,,,,,,,12,782,138 EAST MILAN RD,3570,BERLIN,COOS,44.51284996,-71.1450773,33007,10004116
 830,state,New Hampshire,SECURE PSYCHIATRIC UNIT AND RESIDENTIAL TREATMENT UNIT,2021-01-13,https://www.covid19.nhdoc.nh.gov/covid-19-testing-information,19,12,0,,,,,,,,,,,,0,56,281 N STATE ST,3301,CONCORD,,43.22712,-71.55698,33013,
 831,state,New Hampshire,STATE PRISON FOR MEN,2021-01-13,https://www.covid19.nhdoc.nh.gov/covid-19-testing-information,233,76,1,,,,,,,,,,,,20,1353,281 N STATE ST,3302,CONCORD,MERRIMACK,43.22710849,-71.55881796,33013,10004118
@@ -676,6 +735,10 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 852,state,New Jersey,GARDEN STATE YOUTH CORRECTIONAL FACILITY,2021-01-13,https://www.state.nj.us/corrections/pages/COVID19Updates.shtml,434,108,1,,,,,,,,,,,,,1591,55 HOGBACK RD,8515,CROSSWICKS,BURLINGTON,40.15916829,-74.67634386,34005,10004004
 853,state,New Jersey,GARRETT HOUSE,2021-01-13,https://www.state.nj.us/corrections/pages/COVID19Updates.shtml,4,0,0,,,,,,,,,,,,,,,,,,,,,
 854,state,New Jersey,HOPE HALL,2021-01-13,https://www.state.nj.us/corrections/pages/COVID19Updates.shtml,13,0,0,,,,,,,,,,,,,,,47711,EVANSVILLE,VANDERBURGH,,,18163,10006939
+1778,immigration,New Jersey,ICE BERGEN COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,7,,0,,,,,,,,,,,,0,,,,,,40.87387305,-74.03904223,,
+1800,immigration,New Jersey,ICE ELIZABETH CONTRACT DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,38,,0,,,,,,,,,,,,1,,,,,,40.66615695,-74.18969352,,
+1802,immigration,New Jersey,ICE ESSEX COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,23,,0,,,,,,,,,,,,9,,,,,,40.7015141,-74.1371458,,
+1815,immigration,New Jersey,ICE HUDSON COUNTY CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,14,,0,,,,,,,,,,,,0,,,,,,40.72991,-74.103398,,
 855,state,New Jersey,JAMES A HEMM HOUSE,2021-01-13,https://www.state.nj.us/corrections/pages/COVID19Updates.shtml,1,0,0,,,,,,,,,,,,,,,,,,,,,
 856,state,New Jersey,KINTOCK BRIDGETON 1,2021-01-13,https://www.state.nj.us/corrections/pages/COVID19Updates.shtml,10,0,0,,,,,,,,,,,,,,,,,,,,,
 857,state,New Jersey,KINTOCK BRIDGETON 2,2021-01-13,https://www.state.nj.us/corrections/pages/COVID19Updates.shtml,15,0,0,,,,,,,,,,,,,,,,,,,,,
@@ -690,6 +753,9 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 871,state,New Jersey,WILLIAM H FAUVER YOUTH CORRECTIONAL FACILITY,2021-01-13,https://www.state.nj.us/corrections/pages/COVID19Updates.shtml,215,94,0,,,,,,,,,,,,,,,,,,,,,
 872,state,New Mexico,CENTRAL NEW MEXICO CORRECTIONAL FACILITY,2021-01-13,https://cd.nm.gov/covid-19-updates/,282,,11,,262,,,,,,,,,,9,,1525 MORRIS RD,87031,LOS LUNAS,VALENCIA,34.78774,-106.7663,35061,
 874,state,New Mexico,GUADALUPE COUNTY CORRECTIONAL FACILITY,2021-01-13,https://cd.nm.gov/covid-19-updates/,253,,3,,249,,,,,,,,,,1,588,SOUTH HWY 54,88435,SANTA ROSA,GUADALUPE,34.90787,-104.7029,35019,10001246
+1791,immigration,New Mexico,ICE CIBOLA COUNTY CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,35.17978331,-107.9076486,,
+1847,immigration,New Mexico,ICE OTERO COUNTY PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,185,,0,,,,,,,,,,,,0,,,,,,32.08042,-106.28262,,
+1870,immigration,New Mexico,ICE TORRANCE COUNTY DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,55,,0,,,,,,,,,,,,0,,,,,,34.767387,-106.018496,,
 875,state,New Mexico,LEA COUNTY CORRECTIONAL FACILITY,2021-01-13,https://cd.nm.gov/covid-19-updates/,260,,1,,205,,,,,,,,,,54,1150,6900 W MILLEN DR,88240,HOBBS,LEA,32.76409,-103.2253,35025,10003790
 876,state,New Mexico,NORTHEAST NEW MEXICO CORRECTIONAL FACILITY,2021-01-13,https://cd.nm.gov/covid-19-updates/,166,,1,,160,,,,,,,,,,5,622,185 DR. MICHAEL JENKINS RD,88415,CLAYTON,UNION,36.43524,-103.123,35059,10001243
 877,state,New Mexico,NORTHWEST NEW MEXICO CORRECTIONAL CENTER,2021-01-13,https://cd.nm.gov/covid-19-updates/,107,,4,,58,,,,,,,,,,45,,1700 EAST OLD HIGHWAY 66,87020,GRANTS,CIBOLA,35.14079,-107.8169,35006,10003781
@@ -729,6 +795,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 915,state,New York,GROVELAND CORRECTIONAL FACILITY,2021-01-13,https://doccs.ny.gov/doccs-covid-19-report,124,,0,,80,,1027,,853,,50,,,,,1054,7000 SONYEA RD,14556,SONYEA,LIVINGSTON,42.68250093,-77.83673449,36051,10000756
 916,state,New York,HALE CREEK CORRECTIONAL FACILITY,2021-01-13,https://doccs.ny.gov/doccs-covid-19-report,19,,0,,1,,424,,392,,13,,,,,,,,,,,,,
 918,state,New York,HUDSON CORRECTIONAL FACILITY,2021-01-13,https://doccs.ny.gov/doccs-covid-19-report,26,,0,,16,,221,,186,,9,,,,,131,50 E COURT ST,12534,HUDSON,COLUMBIA,42.24458968,-73.79309841,36021,10000761
+1782,immigration,New York,ICE BUFFALO BATAVIA SERVICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,52,,0,,,,,,,,,,,,2,,,,,,43.020404,-78.202694,,
 919,state,New York,LAKEVIEW CORRECTIONAL FACILITY,2021-01-13,https://doccs.ny.gov/doccs-covid-19-report,28,,0,,20,,516,,454,,34,,,,,660,9300 LAKE AVE,14716,BROCTON,CHAUTAUQUA,42.40795174,-79.43456768,36013,10000759
 920,state,New York,MARCY CORRECTIONAL FACILITY,2021-01-13,https://doccs.ny.gov/doccs-covid-19-report,14,,0,,10,,1444,,1388,,42,,,,,1148,9000 OLD RIVER RD,13403,MARCY,ONEIDA,43.160718,-75.3079037,36065,10000751
 922,state,New York,MIDSTATE CORRECTIONAL FACILITY,2021-01-13,https://doccs.ny.gov/doccs-covid-19-report,90,,1,,51,,1576,,1382,,104,,,,,1584,9005 OLD RIVER RD,13403,MARCY,ONEIDA,43.1658393,-75.2962775,36065,10003152
@@ -832,6 +899,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1029,state,North Dakota,PROBATION AND PAROLE,2021-01-13,https://www.docr.nd.gov/covid-19-information,,21,,0,,20,,,,,,,,,,,,,,,,,,
 1030,state,North Dakota,YOUTH CORRECTIONAL CENTER,2021-01-13,https://www.docr.nd.gov/covid-19-information,3,32,0,0,2,30,547,1510,,,,,,,,,701 16TH AVE SW,58554,MANDAN,,46.8187668,-100.913189,,
 ,federal,Not Available,ALICEVILLE-CAMP,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp,,,,,,,,,,,,,,,,,,,,,,,,
+1878,immigration,Not Available,ALL ICE FACILITIES,2021-01-13,https://www.ice.gov/coronavirus,,,,,,,82585,,,,,,,,,,,,,,,,,
 ,federal,Not Available,ALLENWOOD MED FCI,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp,,,,,,,,,,,,,,,,,,,,,,,,
 ,federal,Not Available,ASHLAND-CAMP,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp,,,,,,,,,,,,,,,,,,,,,,,,
 ,federal,Not Available,ATLANTA-CAMP,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp,,,,,,,,,,,,,,,,,,,,,,,,
@@ -941,6 +1009,21 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 ,federal,Not Available,HOME CONFINEMENT,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp,,,,,,,,,,,,,,,,,,,,,,,,
 ,federal,Not Available,HORIZON HOUSE RRC ALBANY,2021-01-13,https://www.bop.gov/coronavirus/,0,,,,,,,,,,0,,,,,,,,,,,,,
 ,federal,Not Available,HUMAN SERVICE CENTER,2021-01-13,https://www.bop.gov/coronavirus/,7,,0,0,7,0,,,,,0,,,,,,,,,,,,,
+,immigration,Not Available,ICE BERKS FAMILY RESIDENTIAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
+,immigration,Not Available,ICE BUTLER COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,1,,,,,,,,,
+,immigration,Not Available,ICE CLINTON COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,63,,0,,,,,,,,,,,,7,,,,,,,,,
+,immigration,Not Available,ICE DODGE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,4,,0,,,,,,,,,,,,0,,,,,,,,,
+,immigration,Not Available,ICE HARDIN COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,7,,0,,,,,,,,,,,,0,,,,,,,,,
+,immigration,Not Available,ICE HOWARD COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,1,,,,,,,,,
+,immigration,Not Available,ICE KANDIYOH COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,41,,0,,,,,,,,,,,,1,,,,,,,,,
+,immigration,Not Available,ICE KANKAKEE COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,2,,,,,,,,,
+,immigration,Not Available,ICE LASALLE COUNTY REGIONAL DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,11,,0,,,,,,,,,,,,0,,,,,,,,,
+,immigration,Not Available,ICE NOBLES COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,,,,
+,immigration,Not Available,ICE ORANGE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,1,,,,,,,,,
+,immigration,Not Available,ICE PLYMOUTH COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,2,,,,,,,,,
+,immigration,Not Available,ICE SOUTH CENTRAL REGIONAL JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,1,,,,,,,,,
+,immigration,Not Available,ICE T DON HUTTO RESIDENTAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,3,,0,,,,,,,,,,,,1,,,,,,,,,
+,immigration,Not Available,ICE YUBA COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,7,,0,,,,,,,,,,,,6,,,,,,,,,
 ,federal,Not Available,JAILSHORT-TERM DETENTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp,,,,,,,,,,,,,,,,,,,,,,,,
 ,federal,Not Available,JESUP-CAMP,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp,,,,,,,,,,,,,,,,,,,,,,,,
 ,federal,Not Available,JESUP-FSL,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp,,,,,,,,,,,,,,,,,,,,,,,,
@@ -1059,6 +1142,8 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1071,federal,Ohio,ELKTON FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,629,,9,0,874,56,,,,,0,,,,,2004,8730 SCROGGS RD,44432,LISBON,COLUMBIANA,40.77251073,-80.7047809,39029,10003385
 1072,state,Ohio,FRANKLIN MEDICAL CENTER,2021-01-13,https://drc.ohio.gov/Organization/Research/Reports/COVID-19-Information,182,234,14,0,167,222,,,,,,,146,,,473,1800 HARMON AVE,43223,COLUMBUS,FRANKLIN,39.92211409,-83.01475812,39049,10003411
 1073,state,Ohio,GRAFTON CORRECTIONAL INSTITUTION,2021-01-13,https://drc.ohio.gov/Organization/Research/Reports/COVID-19-Information,105,170,2,0,84,141,,,,,,,66,,,661,2000 S AVON-BELDEN RD,44044,GRAFTON,LORAIN,41.28315407,-82.02518911,39093,10003356
+1809,immigration,Ohio,ICE GEAUGA COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,41.504557,-81.19155,,
+1842,immigration,Ohio,ICE MORROW COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,51,,0,,,,,,,,,,,,0,,,,,,40.5599306,-82.80671785,,
 1074,state,Ohio,LAKE ERIE CORRECTIONAL INSTITUTION,2021-01-13,https://drc.ohio.gov/Organization/Research/Reports/COVID-19-Information,44,88,4,1,37,86,,,,,,,31,,,1766,501 THOMPSON RD,44030,CONNEAUT,ASHTABULA,41.94593921,-80.53812711,39007,10003342
 1075,state,Ohio,LEBANON CORRECTIONAL INSTITUTION,2021-01-13,https://drc.ohio.gov/Organization/Research/Reports/COVID-19-Information,86,167,0,0,83,152,,,,,,,230,,,2344,3791 STATE ROUTE 63,45036,LEBANON,WARREN,39.4339311,-84.2988531,39165,10003433
 1076,state,Ohio,LONDON CORRECTIONAL INSTITUTION,2021-01-13,https://drc.ohio.gov/Organization/Research/Reports/COVID-19-Information,101,104,6,0,95,99,,,,,,,10,,,2293,1580 STATE ROUTE 56 SW,43140,LONDON,MADISON,39.90313668,-83.4836439,39097,10003414
@@ -1094,6 +1179,8 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1107,state,Oklahoma,ENID COMMUNITY CORRECTIONS CENTER,2020-10-19,http://doc.publishpath.com/Default.aspx?shortcut=covid-19-stats-report,47,0,0,0,47,0,,,,,,,4,,,92,2020 E MAINE AVE,73701,ENID,GARFIELD,36.39570232,-97.84784197,40047,10001722
 1108,federal,Oklahoma,GREAT PLAINS CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,,,1,0,166,0,,,,,,,,,,1849,700 SUGAR CREEK DRIVE,73047,HINTON,CADDO,35.44718802,-98.36775912,40015,10003579
 1109,state,Oklahoma,HOWARD MCLEOD CORRECTIONAL CENTER,2020-10-19,http://doc.publishpath.com/Default.aspx?shortcut=covid-19-stats-report,180,4,0,0,157,1,,,,,,,218,,,672,19603 E WHIPPOORWILL LN,74525,ATOKA,ATOKA,34.15845038,-95.82001916,40005,10003591
+1823,immigration,Oklahoma,ICE KAY COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,36.87962061,-97.07519531,,
+1840,immigration,Oklahoma,ICE OKMULGEE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,35,,0,,,,,,,,,,,,0,,,,,,35.62237634,-95.97423614,,
 1110,state,Oklahoma,JACKIE BRANNON CORRECTIONAL CENTER,2020-10-19,http://doc.publishpath.com/Default.aspx?shortcut=covid-19-stats-report,286,9,0,0,207,7,,,,,,,466,,,711,900 N WEST ST,74502,MCALESTER,PITTSBURG,34.94343883,-95.78342094,40121,10003585
 1111,state,Oklahoma,JAMES CRABTREE CORRECTIONAL CENTER,2020-10-19,http://doc.publishpath.com/Default.aspx?shortcut=covid-19-stats-report,4,4,0,0,4,0,,,,,,,1,,,1172,216 N. MURRAY ST.,73741,HELENA,ALFALFA,36.546387,-98.27838656,40003,10001016
 1112,state,Oklahoma,JESS DUNN CORRECTIONAL CENTER,2020-10-19,http://doc.publishpath.com/Default.aspx?shortcut=covid-19-stats-report,4,5,0,0,4,4,,,,,,,2,,,1125,601 S 124TH ST W,74463,TAFT,MUSKOGEE,35.75480015,-95.55572737,40101,10001725
@@ -1155,6 +1242,9 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1170,state,Pennsylvania,GREENE CORRECTIONAL INSTITUTION,2021-01-13,https://www.cor.pa.gov/Pages/COVID-19.aspx,125,159,1,0,110,147,,402,1170,238,768,5,,,,1739,175 PROGRESS DR,15370,WAYNESBURG,GREENE,39.90623932,-80.13706126,42059,10003121
 1171,state,Pennsylvania,HOUTZDALE CORRECTIONAL INSTITUTION,2021-01-13,https://www.cor.pa.gov/Pages/COVID-19.aspx,199,83,0,0,152,95,,159,482,51,323,25,,,,2458,209 INSTITUTION DR,16698,HOUTZDALE,CLEARFIELD,40.81216966,-78.35675004,42033,10000721
 1172,state,Pennsylvania,HUNTINGDON CORRECTIONAL INSTITUTION,2021-01-13,https://www.cor.pa.gov/Pages/COVID-19.aspx,220,145,6,0,194,129,,415,597,270,134,0,,,,1875,1100 PIKE ST,16654,HUNTINGDON,HUNTINGDON,40.49111915,-78.02871657,42061,10000728
+1785,immigration,Pennsylvania,ICE CAMBRIA COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,12,,0,,,,,,,,,,,,0,,,,,,40.4843966,-78.70123165,,
+1849,immigration,Pennsylvania,ICE PIKE COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,37,,0,,,,,,,,,,,,4,,,,,,41.38881,-75.071465,,
+1877,immigration,Pennsylvania,ICE YORK COUNTY PRISON,2021-01-13,https://www.ice.gov/coronavirus,235,,0,,,,,,,,,,,,108,,,,,,39.9875974,-76.66360293,,
 1174,state,Pennsylvania,LAUREL HIGHLANDS CORRECTIONAL INSTITUTION,2021-01-13,https://www.cor.pa.gov/Pages/COVID-19.aspx,490,158,11,0,437,153,,224,4159,33,207,33,,,,1240,5706 GLADES PIKE,15501,SOMERSET,SOMERSET,40.00457529,-79.03989976,42111,10003107
 1175,federal,Pennsylvania,LEWISBURG UNITED STATES PENITENTIARY,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,111,,0,0,116,36,,,,,0,,,,,177,2400 ROBERT F. MILLER DR,17837,LEWISBURG,UNION,40.98796603,-76.9149622,42119,10003069
 1176,federal,Pennsylvania,LORETTO FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,715,,0,0,717,47,,,,,0,,,,,,,,,,,,,
@@ -1177,9 +1267,11 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1194,state,Pennsylvania,TRAINING ACADEMY,2021-01-13,https://www.cor.pa.gov/Pages/COVID-19.aspx,0,5,0,0,0,0,,13,0,8,0,0,,,,,,,,,,,,
 1195,state,Pennsylvania,WAYMART CORRECTIONAL INSTITUTION,2021-01-13,https://www.cor.pa.gov/Pages/COVID-19.aspx,743,123,3,0,313,108,,253,3136,130,73,0,,,,1189,"US HIGHWAY 6, P.O. BOX 256",18472,WAYMART,WAYNE,41.57445182,-75.42936698,42127,10003047
 1196,federal,Puerto Rico,GUAYNABO METROPOLITAN DETENTION CENTER,2021-01-13,https://www.bop.gov/mobile/about/population_statistics.jsp; https://www.bop.gov/coronavirus/,47,,0,0,34,0,,,,,2,,,,,,,,,,,,,
+1861,immigration,Puerto Rico,ICE SAN JUAN STAGING FACILITY,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,18.406539,-66.106714,,
 1197,federal,Puerto Rico,VOLUNTEERS OF AMERICA INC SAN JUAN,2021-01-13,https://www.bop.gov/coronavirus/,19,,0,0,5,0,,,,,0,,,,,,,,,,,,,
 1198,state,Rhode Island,CRANSTON ADULT WOMENS CORRECTIONAL INSTITUTION,2021-01-13,http://www.doc.ri.gov/covid-19/,25,23,1,,,,,,,,,,,,,845,18 SLATE HILL RD,2920,CRANSTON,PROVIDENCE,41.74878365,-71.46383741,44007,10001721
 1760,state,Rhode Island,HIGH SECURITY FACILITY,2021-01-13,http://www.doc.ri.gov/covid-19/,8,16,0,,,,,,,,,,,,,88,54 POWER RD,02920,CRANSTON,PROVIDENCE,41.7494858299038,-71.461987373828,44007,10003561
+1876,immigration,Rhode Island,ICE WYATT DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,8,,0,,,,,,,,,,,,4,,,,,,41.89281058,-71.38319984,,
 1200,state,Rhode Island,INTAKE SERVICE CENTER,2021-01-13,http://www.doc.ri.gov/covid-19/,326,80,0,,,,,,,,,,,,,845,18 SLATE HILL RD,2920,CRANSTON,PROVIDENCE,41.74878365,-71.46383741,44007,10001721
 ,state,Rhode Island,MAXIMUM SECURITY,2021-01-13,http://www.doc.ri.gov/covid-19/,332,59,1,,,,,,,,,,,,,,,,,,,,,
 1201,state,Rhode Island,MEDIUM SECURITY FACILITY,2021-01-13,http://www.doc.ri.gov/covid-19/,325,77,1,,,,,,,,,,,,,964,51 WEST RD,2920,CRANSTON,PROVIDENCE,41.7450001,-71.4657884,44007,10003556
@@ -1192,6 +1284,8 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1212,federal,South Carolina,ESTILL FEDERAL CORRECTIONAL INSTITUTION,2021-01-13,https://www.bop.gov/coronavirus/,2,,0,0,0,0,,,,,0,,,,,977,100 PRISON RD,29918,ESTILL,HAMPTON,32.72103078,-81.25513265,45049,10000099
 1213,state,South Carolina,EVANS CORRECTIONAL INSTITUTION,2021-01-13,http://www.doc.sc.gov/covid.html,78,37,2,0,58,33,,,,,,,,,,1039,610 HWY 9 W,29512,BENNETTSVILLE,MARLBORO,34.65247436,-79.71654753,45069,10001133
 1214,state,South Carolina,GOODMAN CORRECTIONAL INSTITUTION,2021-01-13,http://www.doc.sc.gov/covid.html,80,12,1,0,79,9,,,,,,,,,,429,4556 BROAD RIVER RD,29210,COLUMBIA,RICHLAND,34.0691385,-81.116763,45079,10001925
+1789,immigration,South Carolina,ICE CHARLESTON COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,3,,0,,,,,,,,,,,,0,,,,,,32.8586313,-80.0087951,,
+1794,immigration,South Carolina,ICE COLUMBIA REGIONAL CARE CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,34.080828,-80.9770025,,
 1215,state,South Carolina,KERSHAW CORRECTIONAL INSTITUTION,2021-01-13,http://www.doc.sc.gov/covid.html,67,29,0,0,0,12,,,,,,,,,,1091,4848 GOLDMINE HWY,29067,KERSHAW,LANCASTER,34.59620877,-80.55157174,45057,10001132
 1216,state,South Carolina,KIRKLAND CORRECTIONAL INSTITUTION,2021-01-13,http://www.doc.sc.gov/covid.html,454,95,3,0,425,81,,,,,,,,,,1368,4344 BROAD RIVER RD,29210,COLUMBIA,RICHLAND,34.06522,-81.11608,45079,10001142
 1217,state,South Carolina,LEATH CORRECTIONAL INSTITUTION,2021-01-13,http://www.doc.sc.gov/covid.html,20,10,0,0,20,8,,,,,,,,,,485,2809 AIRPORT RD,29649,GREENWOOD,GREENWOOD,34.25324443,-82.1456352,45047,10001137
@@ -1329,6 +1423,26 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 ,county,Texas,HUNT JAIL,2021-01-13,https://www.tcjs.state.tx.us/,,,0,,,,,,,,2,,19,,8,,,,,,,,,
 1374,state,Texas,HUNTSVILLE UNIT,2021-01-13,https://www.tdcj.texas.gov/covid-19/presumed.html,564,66,,,431,39,3834,,,,,,1114,,,1035,815 12TH ST,77348,HUNTSVILLE,WALKER,30.72166059,-95.54659217,48471,10000210
 1375,state,Texas,HUTCHINS UNIT,2021-01-13,https://www.tdcj.texas.gov/covid-19/presumed.html,74,88,,,67,71,2947,,,,,,322,,,1668,1500 E LANGDON RD,75241,DALLAS,DALLAS,32.66078179,-96.71488715,48113,10002755
+1779,immigration,Texas,ICE BLUEBONNET DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,397,,0,,,,,,,,,,,,7,,,,,,32.77803799,-99.90966797,,
+1793,immigration,Texas,ICE COASTAL BEND DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,12,,0,,,,,,,,,,,,0,,,,,,27.736829,-97.754606,,
+1797,immigration,Texas,ICE EDEN DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,62,,0,,,,,,,,,,,,0,,,,,,31.216752,-99.833807,,
+1798,immigration,Texas,ICE EL PASO SERVICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,326,,0,,,,,,,,,,,,10,,,,,,31.79644735,-106.3696513,,
+1799,immigration,Texas,ICE EL VALLE DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,120,,0,,,,,,,,,,,,14,,,,,,26.48040716,-97.76733398,,
+1814,immigration,Texas,ICE HOUSTON CONTRACT DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,159,,0,,,,,,,,,,,,0,,,,,,29.95083585,-95.31218808,,
+1820,immigration,Texas,ICE JOE CORLEY DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,51,,1,,,,,,,,,,,,0,,,,,,30.34443559,-95.46020508,,
+1821,immigration,Texas,ICE JOHNSON COUNTY CORRECTIONS CENTER,2021-01-13,https://www.ice.gov/coronavirus,4,,0,,,,,,,,,,,,0,,,,,,32.3749017,-97.38846453,,
+1822,immigration,Texas,ICE KARNES COUNTY RESIDENTIAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,95,,0,,,,,,,,,,,,5,,,,,,28.884651,-97.915298,,
+1827,immigration,Texas,ICE LAREDO PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,7,,0,,,,,,,,,,,,0,,,,,,27.5294764,-99.44777311,,
+1831,immigration,Texas,ICE LIMESTONE COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,92,,0,,,,,,,,,,,,3,,,,,,31.52878353,-96.51234696,,
+1839,immigration,Texas,ICE MONTGOMERY PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,248,,0,,,,,,,,,,,,8,,,,,,30.34443559,-95.44921875,,
+1816,immigration,Texas,ICE POLK COUNTY ADULT DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,31,,0,,,,,,,,,,,,0,,,,,,30.6981513,-95.00579154,,
+1852,immigration,Texas,ICE PORT ISABEL,2021-01-13,https://www.ice.gov/coronavirus,246,,0,,,,,,,,,,,,11,,,,,,26.155046,-97.33829,,
+1853,immigration,Texas,ICE PRAIRIELAND DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,138,,0,,,,,,,,,,,,6,,,,,,32.42078539,-97.19690234,,
+1856,immigration,Texas,ICE RIO GRANDE DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,183,,0,,,,,,,,,,,,14,,,,,,27.377813,-99.489677,,
+1859,immigration,Texas,ICE ROLLING PLAINS DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,59,,0,,,,,,,,,,,,0,,,,,,33.1762715,-99.72178917,,
+1866,immigration,Texas,ICE SOUTH TEXAS DETENTION COMPLEX,2021-01-13,https://www.ice.gov/coronavirus,285,,0,,,,,,,,,,,,5,,,,,,28.8946514,-99.1219428,,
+1865,immigration,Texas,ICE SOUTH TEXAS FAMILY RESIDENTIAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,27,,0,,,,,,,,,,,,2,,,,,,28.658051,-99.200575,,
+1873,immigration,Texas,ICE WEBB COUNTY DETENTION CENTER CCA,2021-01-13,https://www.ice.gov/coronavirus,102,,0,,,,,,,,,,,,8,,,,,,27.370089,-99.489808,,
 ,county,Texas,JACKSON JAIL,2021-01-13,https://www.tcjs.state.tx.us/,,,0,,,,,,,,0,,21,,16,,,,,,,,,
 ,county,Texas,JEFFERSON JAIL,2021-01-13,https://www.tcjs.state.tx.us/,,,0,,,,,,,,0,,80,,3,,,,,,,,,
 ,county,Texas,JEFFERSON P JAIL,2021-01-13,https://www.tcjs.state.tx.us/,,,1,,,,,,,,0,,0,,0,,,,,,,,,
@@ -1418,6 +1532,8 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1492,state,Utah,BONNEVILLE COMMUNITY CORRECTIONAL CENTER,2021-01-13,https://corrections.utah.gov/index.php/home/alerts-2/1237-udc-coronavirus-updates,12,,0,,12,,,,128,,,,,,,,1141 S 2475 W,84104,SALT LAKE CITY,,40.744817,-111.954379,49035,
 1493,state,Utah,CENTRAL UTAH CORRECTIONAL FACILITY GUNNISON,2021-01-13,https://corrections.utah.gov/index.php/home/alerts-2/1237-udc-coronavirus-updates,989,,3,,848,,,,6809,,,,,,,1700,255 E 300 N ST,84634,GUNNISON,SANPETE,39.16624296,-111.811498,49039,10002617
 1494,state,Utah,FORTITUDE TREATMENT CENTER,2021-01-13,https://corrections.utah.gov/index.php/home/alerts-2/1237-udc-coronavirus-updates,52,,0,,15,,,,304,,,,,,,,1747 S 900 W,84104,SALT LAKE CITY,,40.732392,-111.915695,49035,
+1783,immigration,Utah,ICE CACHE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,15,,0,,,,,,,,,,,,0,,,,,,41.73515501,-111.836168,,
+1872,immigration,Utah,ICE WASHINGTON COUNTY JAIL PURGATORY CORRECTIONAL FAC,2021-01-13,https://www.ice.gov/coronavirus,6,,0,,,,,,,,,,,,0,,,,,,37.158273,-113.412336,,
 1496,state,Utah,NORTHERN UTAH COMMUNITY CORRECTIONAL CENTER,2021-01-13,https://corrections.utah.gov/index.php/home/alerts-2/1237-udc-coronavirus-updates,27,,0,,22,,,,345,,,,,,,,2445 WATER TOWER WAY,84401,OGDEN,,41.222144,-112.0077493,49057,
 1497,state,Utah,ORANGE STREET COMMUNITY CORRECTIONAL CENTER,2021-01-13,https://corrections.utah.gov/index.php/home/alerts-2/1237-udc-coronavirus-updates,12,,0,,12,,,,37,,,,,,,,80 ORANGE ST,84116,SALT LAKE CITY,,40.7675112,-111.9452923,49035,
 1499,state,Utah,UDC INMATES HOUSED AT A COUNTY JAIL,2021-01-13,https://corrections.utah.gov/index.php/home/alerts-2/1237-udc-coronavirus-updates,281,,0,,113,,,,,,,,,,,,,,,,,,,
@@ -1464,6 +1580,8 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1548,state,Virginia,HARRISONBURG MENS COMMUNITY CORRECTIONS ALTERNATIVE PROGRAM,2021-01-13,https://vadoc.virginia.gov/news-press-releases/2020/covid-19-updates/,26,,0,,,,,,,,,,,,,115,6624 BEARD WOODS LANE,22802,HARRISONBURG,ROCKINGHAM,38.53186597,-78.81655787,51165,10003247
 1549,state,Virginia,HAYNESVILLE CORRECTIONAL CENTER,2021-01-13,https://vadoc.virginia.gov/news-press-releases/2020/covid-19-updates/,376,,1,,,,,,,,,,,,,942,421 BARNFIELD RD,22472,HAYNESVILLE,RICHMOND,37.95747468,-76.67065343,51159,10003262
 1550,state,Virginia,HAYNESVILLE CORRECTIONAL UNIT 17,2021-01-13,https://vadoc.virginia.gov/news-press-releases/2020/covid-19-updates/,1,,0,,,,,,,,,,,,,942,421 BARNFIELD RD,22472,HAYNESVILLE,RICHMOND,37.95747468,-76.67065343,51159,10003262
+1786,immigration,Virginia,ICE CAROLINE DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,65,,0,,,,,,,,,,,,9,,,,,,38.11727166,-77.27783203,,
+1804,immigration,Virginia,ICE IMMIGRATION CENTERS OF AMERICA FARMVILLE,2021-01-13,https://www.ice.gov/coronavirus,339,,1,,,,,,,,,,,,0,,,,,,37.319501,-78.438276,,
 1551,state,Virginia,INDIAN CREEK CORRECTIONAL CENTER,2021-01-13,https://vadoc.virginia.gov/news-press-releases/2020/covid-19-updates/,54,,0,,,,,,,,,,,,,1000,801 SANDERSON RD,23328,CHESAPEAKE,CHESAPEAKE,36.61439825,-76.17807889,51550,10000924
 1552,state,Virginia,KEEN MOUNTAIN CORRECTIONAL CENTER,2021-01-13,https://vadoc.virginia.gov/news-press-releases/2020/covid-19-updates/,16,,1,,,,,,,,,,,,,723,STATE ROUTE 629,24631,OAKWOOD,BUCHANAN,37.22341363,-81.9796887,51027,10001583
 1553,state,Virginia,LAWRENCEVILLE CORRECTIONAL CENTER,2021-01-13,https://vadoc.virginia.gov/news-press-releases/2020/covid-19-updates/,99,,1,,,,,,,,,,,,,1563,1607 PLANTERS RD,23868,LAWRENCEVILLE,BRUNSWICK,36.78198812,-77.81553881,51025,10001596
@@ -1509,6 +1627,7 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1599,state,Washington,COYOTE RIDGE CORRECTIONS CENTER,2021-01-13,https://www.doc.wa.gov/corrections/covid-19/data.htm,353,154,2,0,,,,,,,,,,,,2500,1301 N EPHRATA AVE,99326,CONNELL,FRANKLIN,46.68038763,-118.8524025,53021,10001687
 1600,state,Washington,ELEANOR CHASE HOUSE WORK RELEASE,2021-01-13,https://www.doc.wa.gov/corrections/covid-19/data.htm,0,4,0,0,,,,,,,,,,,,,,99204,SPOKANE,SPOKANE,,,53063,10002459
 1601,state,Washington,HELEN B RATCLIFF WORK RELEASE,2021-01-13,https://www.doc.wa.gov/corrections/covid-19/data.htm,1,0,0,0,,,,,,,,,,,,,,98144,SEATTLE,KING,,,53033,10002470
+1844,immigration,Washington,ICE NORTHWEST DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,29,,0,,,,,,,,,,,,0,,,,,,47.25020974,-122.4226634,,
 1602,state,Washington,LARCH CORRECTIONS CENTER,2021-01-13,https://www.doc.wa.gov/corrections/covid-19/data.htm,272,24,0,0,,,,,,,,,,,,476,15314 NE DOLE VALLEY RD,98675,YACOLT,CLARK,45.73233903,-122.3424463,53011,10001690
 1603,state,Washington,LONGVIEW WORK RELEASE,2021-01-13,https://www.doc.wa.gov/corrections/covid-19/data.htm,0,0,0,0,,,,,,,,,,,,,,98632,LONGVIEW,COWLITZ,,,53015,10002510
 ,state,Washington,MILL CREEK REGIONAL PERFORMANCE CENTER,2021-01-13,https://www.doc.wa.gov/corrections/covid-19/data.htm,,9,,0,,,,,,,,,,,,,,,,,,,,
@@ -1620,123 +1739,3 @@ Facility.ID,Jurisdiction,State,Name,Date,source,Residents.Confirmed,Staff.Confir
 1715,state,Wyoming,WYOMING HONOR FARM,2021-01-13,http://corrections.wyo.gov/,,,,,,,,,,,,,,,1,203,40 HONOR FARM RD,82501,RIVERTON,FREMONT,,,56013,10000055
 1716,state,Wyoming,WYOMING MEDIUM CORRECTIONAL INSTITUTION,2021-01-13,http://corrections.wyo.gov/,,,,,,,,,,,,,,,0,604,7076 ROAD 55F,82240,TORRINGTON,GOSHEN,,,56015,10006189
 1717,state,Wyoming,WYOMING STATE PENITENTIARY,2021-01-13,http://corrections.wyo.gov/,,,,,,,,,,,,,,,2,581,2900 S HIGLEY RD,82301,RAWLINS,CARBON,,,56007,10000057
-,immigration,,ADELANTO ICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,270,,0,,,,,,,,,,,,4,,,,,,,,,
-,immigration,,ALL ICE FACILITIES,2021-01-13,https://www.ice.gov/coronavirus,,,,,,,82585,,,,,,,,,,,,,,,,,
-,immigration,,FOLKSTON ICE PROCESSING CENTER D RAY JAMES,2021-01-13,https://www.ice.gov/coronavirus,92,,0,,,,,,,,,,,,8,,,,,,,,,
-,immigration,,ICE ADAMS COUNTY CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,109,,0,,,,,,,,,,,,3,,,,,,,,,
-,immigration,,ICE ALEXANDRIA STAGING FACILITY,2021-01-13,https://www.ice.gov/coronavirus,224,,0,,,,,,,,,,,,20,,,,,,,,,
-,immigration,,ICE ALLEN PARISH DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,12,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE AURORA CONTRACT DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,167,,0,,,,,,,,,,,,38,,,,,,,,,
-,immigration,,ICE BAKER COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,14,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE BERGEN COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,7,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE BERKS FAMILY RESIDENTIAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE BLUEBONNET DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,397,,0,,,,,,,,,,,,7,,,,,,,,,
-,immigration,,ICE BRISTOL COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE BROWARD TRANSITIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,228,,0,,,,,,,,,,,,68,,,,,,,,,
-,immigration,,ICE BUFFALO BATAVIA SERVICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,52,,0,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE BUTLER COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE CACHE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,15,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE CALHOUN COUNTY CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,55,,0,,,,,,,,,,,,4,,,,,,,,,
-,immigration,,ICE CAMBRIA COUNTY PRISON,2021-01-13,https://www.ice.gov/coronavirus,12,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE CAROLINE DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,65,,0,,,,,,,,,,,,9,,,,,,,,,
-,immigration,,ICE CATAHOULA CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,119,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE CCA FLORENCE CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,104,,0,,,,,,,,,,,,13,,,,,,,,,
-,immigration,,ICE CHARLESTON COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE CHASE COUNTY DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,82,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE CIBOLA COUNTY CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE CLAY COUNTY JUSTICE CENTER,2021-01-13,https://www.ice.gov/coronavirus,18,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE CLINTON COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,63,,0,,,,,,,,,,,,7,,,,,,,,,
-,immigration,,ICE COASTAL BEND DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,12,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE COLUMBIA REGIONAL CARE CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE CUMBERLAND COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE DODGE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,4,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE DOUGLAS COUNTY CORRECTIONS,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE EDEN DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,62,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE EL PASO SERVICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,326,,0,,,,,,,,,,,,10,,,,,,,,,
-,immigration,,ICE EL VALLE DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,120,,0,,,,,,,,,,,,14,,,,,,,,,
-,immigration,,ICE ELIZABETH DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,38,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE ELOY FEDERAL CONTRACT FACILITY,2021-01-13,https://www.ice.gov/coronavirus,280,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE ESSEX COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,23,,0,,,,,,,,,,,,9,,,,,,,,,
-,immigration,,ICE ETOWAH COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,30,,0,,,,,,,,,,,,6,,,,,,,,,
-,immigration,,ICE FLORENCE DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,96,,0,,,,,,,,,,,,5,,,,,,,,,
-,immigration,,ICE FRANKLIN COUNTY HOUSE OF CORRECTIONS,2021-01-13,https://www.ice.gov/coronavirus,9,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE FREEBORN COUNTY ADULT DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,5,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE GEAUGA COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE GLADES COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,182,,1,,,,,,,,,,,,3,,,,,,,,,
-,immigration,,ICE GOLDEN STATE ANNEX FACILITY,2021-01-13,https://www.ice.gov/coronavirus,5,,0,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE HANCOCK COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE HARDIN COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,7,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE HENDERSON DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,28,,0,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE HOUSTON CONTRACT DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,159,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE HOWARD COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE HUDSON COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,14,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE IAH POLK ADULT DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,31,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE IMMIGRATION CENTERS OF AMERICA - FARMVILLE,2021-01-13,https://www.ice.gov/coronavirus,339,,1,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE IMPERIAL REGIONAL DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,21,,0,,,,,,,,,,,,11,,,,,,,,,
-,immigration,,ICE IRWIN COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,61,,0,,,,,,,,,,,,10,,,,,,,,,
-,immigration,,ICE JACKSON PARISH CORRECTIONAL,2021-01-13,https://www.ice.gov/coronavirus,114,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE JOE CORLEY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,51,,1,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE JOHNSON COUNTY LAW ENFORCEMENT CENTER,2021-01-13,https://www.ice.gov/coronavirus,4,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE KANDIYOH COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,41,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE KANKAKEE COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE KARNES COUNTY FAMILY RESIDENTIAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,95,,0,,,,,,,,,,,,5,,,,,,,,,
-,immigration,,ICE KAY COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE KROME NORTH SERVICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,222,,0,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE LA PALMA CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,533,,0,,,,,,,,,,,,18,,,,,,,,,
-,immigration,,ICE LAREDO PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,7,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE LARKIN BEHAVIORAL HEALTH CENTER,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE LASALLE COUNTY REGIONAL DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,11,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE LIMESTONE COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,92,,0,,,,,,,,,,,,3,,,,,,,,,
-,immigration,,ICE LINCOLN COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE LINN COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE MCHENRY COUNTY ADULT CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,6,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE MONROE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE MONTGOMERY COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE MONTGOMERY PROCESSING CENTER HOUSTON,2021-01-13,https://www.ice.gov/coronavirus,248,,0,,,,,,,,,,,,8,,,,,,,,,
-,immigration,,ICE MOORE DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,35,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE MORGAN COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE MORROW COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,51,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE NEVADA SOUTHERN DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,13,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE NOBLES COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE NYE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,60,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE ORANGE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE OTAY MESA DETENTION CENTER SAN DIEGO CDF,2021-01-13,https://www.ice.gov/coronavirus,203,,1,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE OTERO COUNTY PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,185,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE PHELPS COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE PIKE COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,37,,0,,,,,,,,,,,,4,,,,,,,,,
-,immigration,,ICE PLYMOUTH COUNTY CORRECTIONAL FACILITY,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE POLK COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,15,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE PORT ISABEL DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,246,,0,,,,,,,,,,,,11,,,,,,,,,
-,immigration,,ICE PRAIRIELAND DETENTION FACILITY,2021-01-13,https://www.ice.gov/coronavirus,138,,0,,,,,,,,,,,,6,,,,,,,,,
-,immigration,,ICE PULASKI COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,110,,0,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE RICHWOOD CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,127,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE RIO GRANDE DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,183,,0,,,,,,,,,,,,14,,,,,,,,,
-,immigration,,ICE RIVER CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,56,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE ROBERT A DEYTON DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,5,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE ROLLING PLAINS DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,59,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE SAINT CLAIR COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,15,,0,,,,,,,,,,,,3,,,,,,,,,
-,immigration,,ICE SAN JUAN STAGING FACILITY,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE SAN LUIS REGIONAL DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,21,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE SHERBURNE COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,2,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE SHERIFF AL CANNON DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE SOUTH CENTRAL REGIONAL JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE SOUTH LOUISIANA CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,29,,0,,,,,,,,,,,,4,,,,,,,,,
-,immigration,,ICE SOUTH TEXAS FAMILY RESIDENTIAL CENTER DILLEY,2021-01-13,https://www.ice.gov/coronavirus,27,,0,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE STEWART DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,450,,3,,,,,,,,,,,,46,,,,,,,,,
-,immigration,,ICE STRAFFORD COUNTY CORRECTIONS,2021-01-13,https://www.ice.gov/coronavirus,18,,0,,,,,,,,,,,,5,,,,,,,,,
-,immigration,,ICE T DON HUTTO RESIDENTAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,3,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,ICE TORRANCE COUNTY DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,55,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE WAKULLA COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,43,,0,,,,,,,,,,,,2,,,,,,,,,
-,immigration,,ICE WASHINGTON COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,6,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE WEBB COUNTY DETENTION CENTER CCA,2021-01-13,https://www.ice.gov/coronavirus,102,,0,,,,,,,,,,,,8,,,,,,,,,
-,immigration,,ICE WINN CORRECTIONAL CENTER,2021-01-13,https://www.ice.gov/coronavirus,284,,1,,,,,,,,,,,,10,,,,,,,,,
-,immigration,,ICE WORCESTER COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,1,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,ICE WYATT DETENTION CENTER,2021-01-13,https://www.ice.gov/coronavirus,8,,0,,,,,,,,,,,,4,,,,,,,,,
-,immigration,,ICE YORK COUNTY PRISON,2021-01-13,https://www.ice.gov/coronavirus,235,,0,,,,,,,,,,,,108,,,,,,,,,
-,immigration,,ICE YUBA COUNTY JAIL,2021-01-13,https://www.ice.gov/coronavirus,7,,0,,,,,,,,,,,,6,,,,,,,,,
-,immigration,,LASALLE ICE PROCESSING CENTER - JENA,2021-01-13,https://www.ice.gov/coronavirus,83,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,LASALLE ICE PROCESSING CENTER - OLLA,2021-01-13,https://www.ice.gov/coronavirus,25,,0,,,,,,,,,,,,1,,,,,,,,,
-,immigration,,MESA VERDE ICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,59,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,NORTHWEST ICE PROCESSING CENTER NWIPC,2021-01-13,https://www.ice.gov/coronavirus,29,,0,,,,,,,,,,,,0,,,,,,,,,
-,immigration,,PINE PRAIRIE ICE PROCESSING CENTER,2021-01-13,https://www.ice.gov/coronavirus,75,,0,,,,,,,,,,,,10,,,,,,,,,
-,immigration,,SOUTH TEXAS ICE PROCESSING CENTER PEARSALL,2021-01-13,https://www.ice.gov/coronavirus,285,,0,,,,,,,,,,,,5,,,,,,,,,
